@@ -10,5 +10,6 @@ console.log(guessLine);
 console.log(bombLine);
 console.log(blankLine);
 
+console.log('i just commited to github');
 
 
